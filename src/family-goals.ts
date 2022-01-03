@@ -180,7 +180,7 @@ const trevorGoals: OKR[] = [
         description: "Define a threshold for maximum work hours per day, and maximum exceptions (fires, crunch, on-call, etc.)",
       },
       {
-        title: "Bi-Weekly Dates with Husband",
+        title: "Bi-Weekly Dates with Wife",
         description: "Take time to go on a date every other week",
       },
       {
