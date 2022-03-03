@@ -20,8 +20,8 @@ const maizeyGoals: OKR[] = [
     title: "Be Healthier",
     keyResults: [
       {
-        title: "Eat less sugar",
-        description: "Limit sugar intake to two treats per day",
+        title: "Practice cheer",
+        description: "Practice back walkovers and front walkovers 5x per week",
       },
       {
         title: "Brush teeth",
